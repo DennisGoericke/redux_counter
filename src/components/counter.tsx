@@ -1,6 +1,5 @@
 import React from "react";
 import { Hook } from "../hooks";
-import { RootState } from "../store";
 import {
   getIncrement,
   getDecrement,
